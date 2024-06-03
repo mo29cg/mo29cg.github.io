@@ -19,7 +19,7 @@ NVDA のコミュニティでもちょこちょこ話題に上がってます。
 [Cache the world](https://wiki.mozilla.org/Accessibility/CacheTheWorld)という firefox を NVDA で使うときに早くするっていうプロジェクトが動いてるらしいです。  
 Firefox nightly という firefox の開発版では既にこの昨日が実装されてるようですが、僕が nightly を試した限りではそれほどの差を感じませんでした。
 
-ついでにいうと web 開発の時とかに使う開発ツールもめっちゃ重いです
+ついでにいうと web 開発の時とかに使う開発ツールもめっちゃ重いです。
 開発者にとってはかなり致命的だと思います
 
 ### chrome のデメリット
